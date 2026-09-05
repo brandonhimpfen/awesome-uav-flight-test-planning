@@ -52,9 +52,9 @@ UAV Flight Test Planning is critical for ensuring safety, reliability, and regul
 
 ## Related Awesome Lists
 
-- **[Awesome Aerospace Engineering](https://github.com/awesomelistsio/awesome-aerospace-engineering)**
-- **[Awesome Drone Engineers](https://github.com/awesomelistsio/awesome-drone-engineers)**
-- **[Awesome Robotics](https://github.com/awesomelistsio/awesome-robotics)**
+- **[Awesome Aerospace Engineering](https://github.com/brandonhimpfen/awesome-aerospace-engineering)**
+- **[Awesome Drone Engineers](https://github.com/brandonhimpfen/awesome-drone-engineers)**
+- **[Awesome Robotics](https://github.com/brandonhimpfen/awesome-robotics)**
   
 ## Contribute
 
